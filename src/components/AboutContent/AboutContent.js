@@ -3,8 +3,8 @@ import "./AboutContentStyles.css";
 import React from 'react';
 import { Link } from "react-router-dom";
 
-import Test1 from "../assets/pro4.jpg";
-import Test2 from "../assets/pro5.jpg";
+import Test1 from "../../assets/pro4.jpg";
+import Test2 from "../../assets/pro5.jpg";
 
 const AboutContent = () => {
   return (
