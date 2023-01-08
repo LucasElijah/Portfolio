@@ -1,8 +1,8 @@
 import "./WorkCardStyles.css";
-import WorkCardData from "./WorkCardData";
+import WorkCardData from "../WorkCardData";
 
 import React from "react";
-import WorkCard from "./WorkCard";
+import WorkCard from "../WorkCard/WorkCard";
 
 const Work = () => {
 	return (
