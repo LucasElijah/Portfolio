@@ -3,7 +3,7 @@ import Footer from "../components/Footer/Footer";
 import HeroImg2 from "../components/HeroImg2";
 import Navbar from "../components/Navbar";
 import PricingCard from "../components/PricingCard";
-import Work from "../components/Work";
+import Work from "../components/Work/Work";
 
 const Project = () => {
 	return (
