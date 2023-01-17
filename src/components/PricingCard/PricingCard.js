@@ -16,7 +16,7 @@ const PricingCard = () => {
           <p>- 3 Pages -</p>
           <p>- Featured -</p>
           <p>- Responsive Design -</p>
-          <Link to="/contact" className="btn">BUY NOW</Link>
+          <Link to="/contact" className="btn">BUY</Link>
         </div>
 
         <div className="card">
@@ -27,7 +27,7 @@ const PricingCard = () => {
           <p>- 5 Pages -</p>
           <p>- Featured -</p>
           <p>- Responsive Design -</p>
-          <Link to="/contact" className="btn">BUY NOW</Link>
+          <Link to="/contact" className="btn">BUY</Link>
         </div>
 
         <div className="card">
