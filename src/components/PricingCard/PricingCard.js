@@ -38,7 +38,7 @@ const PricingCard = () => {
           <p>- 8 Pages -</p>
           <p>- Featured -</p>
           <p>- Responsive Design -</p>
-          <Link to="/contact" className="btn">BUY NOW</Link>
+          <Link to="/contact" className="btn">BUY</Link>
         </div>
 
       </div>
