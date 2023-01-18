@@ -1,5 +1,5 @@
-import "./WorkCardStyles.css";
-import WorkCardData from "../WorkCardData";
+import "../WorkCard/WorkCardStyles.css";
+import WorkCardData from "../WorkCard/WorkCardData.js";
 
 import React from "react";
 import WorkCard from "../WorkCard/WorkCard";
