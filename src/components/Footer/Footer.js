@@ -3,6 +3,7 @@ import "./FooterStyles.css";
 import React from "react";
 import {
 	FaFacebook,
+	FaGithub,
 	FaHome,
 	FaLinkedin,
 	FaMailBulk,
@@ -49,15 +50,21 @@ const Footer = () => {
 						eiusmod tempor incididunt ut labore et dolore magna aliqua.{" "}
 					</p>
 					<div className="social">
-						<FaFacebook
+						<a href="https://www.facebook.com">
+							<FaFacebook
 							size={30}
 							style={{ color: "fff", marginRight: "1rem" }}
-						/>
+							/>
+						</a>
 						<FaTwitter
 							size={30}
 							style={{ color: "fff", marginRight: "1rem" }}
 						/>
 						<FaLinkedin
+							size={30}
+							style={{ color: "fff", marginRight: "1rem" }}
+						/>
+						<FaGithub 
 							size={30}
 							style={{ color: "fff", marginRight: "1rem" }}
 						/>
