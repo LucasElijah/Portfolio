@@ -68,7 +68,9 @@ const Footer = () => {
 								style={{ color: "fff", marginRight: "1rem" }}
 							/>
 						</a>
-						<FaGithub size={30} style={{ color: "fff", marginRight: "1rem" }} />
+						<a href="https://github.com/LucasElijah">
+							<FaGithub size={30} style={{ color: "fff", marginRight: "1rem" }} />
+						</a>
 					</div>
 				</div>
 			</div>
