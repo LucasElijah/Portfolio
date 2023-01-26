@@ -2,7 +2,7 @@ import pro1 from "../../assets/pro1.jpg";
 import pro2 from "../../assets/pro2.jpg";
 import pro3 from "../../assets/pro3.jpg";
 
-const ProjectCardData= [
+const WorkCardData= [
   {
     imgsrc: pro1,
     title: "Google",
@@ -26,4 +26,4 @@ const ProjectCardData= [
   },
 ];
 
-export default ProjectCardData;
+export default WorkCardData;
