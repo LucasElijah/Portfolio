@@ -18,7 +18,8 @@
 }
 
 .project-card img {
-  width: 100%
+  width: 100%;
+  height: 40%;
 }
 
 .project-title{
@@ -37,7 +38,7 @@
 .project-buttons {
   display: flex;
   /* justify-content: space-between; */
-  padding: 0.5rem 0;
+  padding: 1rem 0rem 3rem;
   justify-content: space-between;
 }
 
