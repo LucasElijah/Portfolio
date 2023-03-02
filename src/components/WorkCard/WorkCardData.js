@@ -5,24 +5,24 @@ import pro3 from "../../assets/pro3.jpg";
 const WorkCardData= [
   {
     imgsrc: pro1,
-    title: "Google",
-    text: "Duis at convallis neque, id efficitur nulla. Etiam sollicitudin tellus a vestibulum mattis. Maecenas accumsan odio eu orci facilisis, ut blandit magna blandit. Proin vestibulum lorem ac eros accumsan consequat. Nunc pharetra pretium semper.",
-    view: "https://www.google.com",
-    source: "https://www.youtube.com"
+    title: "AudioWorld E-Commerce Site",
+    text: "E-Commerce Site for headphones and related audio gear. App uses React, Axios, Strapi, Stripe",
+    view: "https://github.com/LucasElijah/Ecommerce_ReactApp",
+    source: "https://github.com/LucasElijah/Ecommerce_ReactApp"
   },
   {
     imgsrc: pro2,
     title: "Calculator App",
-    text: "Duis at convallis neque, id efficitur nulla. Etiam sollicitudin tellus a vestibulum mattis. Maecenas accumsan odio eu orci facilisis, ut blandit magna blandit. Proin vestibulum lorem ac eros accumsan consequat. Nunc pharetra pretium semper.",
-    view: "https://www.google.com",
+    text: "React Calculator App that uses code logic to perform calculations and functions. CSS grid implemented to format calculator",
+    view: "https://github.com/LucasElijah/react-calculator",
     source: "https://github.com/LucasElijah/react-calculator"
   },
   {
     imgsrc: pro3,
-    title: "Hangman",
-    text: "Duis at convallis neque, id efficitur nulla. Etiam sollicitudin tellus a vestibulum mattis. Maecenas accumsan odio eu orci facilisis, ut blandit magna blandit. Proin vestibulum lorem ac eros accumsan consequat. Nunc pharetra pretium semper.",
-    view: "https://www.google.com",
-    source: "https://github.com/LucasElijah/hangman-vite-react-app"
+    title: "React Recipe Generator App",
+    text: "Terst",
+    view: "https://github.com/LucasElijah/react_recipe_app",
+    source: "https://github.com/LucasElijah/react_recipe_app"
   },
 ];
 
