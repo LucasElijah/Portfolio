@@ -1,56 +1,55 @@
 .project-heading {
-  text-align: center;
-  padding: 4rem 0 2rem 0;
+	text-align: center;
+	padding: 4rem 0 2rem 0;
 }
 
 .project-container {
-  max-width: 1140px;
-  margin: auto;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 40px;
-  padding-bottom: 5rem;
+	max-width: 1140px;
+	margin: auto;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 40px;
+	padding-bottom: 5rem;
 }
 
 .project-card {
-  background: #1a1919;
-  padding: 1.2rem 1rem;
+	background: #1a1919;
+	padding: 1.2rem 1rem;
 }
 
 .project-card img {
-  width: 100%;
-  height: 40%;
+	width: 100%;
+	height: 40%;
 }
 
-.project-title{
-  color: white;
-  padding: 1rem 0;
-  text-align: initial;
+.project-title {
+	color: mistyrose;
+	padding: 1rem 0;
+	text-align: initial;
 }
 
 .project-details p {
-  padding-bottom: 1rem;
-  font-size: 1.24rem;
-  text-align: start;
-  /* justify text align not working right on larger screen */
+	padding-bottom: 1rem;
+	font-size: 1.24rem;
+	text-align: start;
+	/* justify text align not working right on larger screen */
 }
 
 .project-buttons {
-  display: flex;
-  /* justify-content: space-between; */
-  padding: 1rem 0rem 3rem;
-  justify-content: space-between;
+	display: flex;
+	/* justify-content: space-between; */
+	padding: 1rem 0rem 3rem;
+	justify-content: space-between;
 }
 
 .project-buttons .btn {
-  padding: 0.5rem 1rem;
+	padding: 0.5rem 1rem;
 }
 
-
 @media screen and (max-width: 740px) {
-  .project-container {
-    max-width: 95%;
-    margin: auto;
-    grid-template-columns: 1fr;
-  }
+	.project-container {
+		max-width: 95%;
+		margin: auto;
+		grid-template-columns: 1fr;
+	}
 }
